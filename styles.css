@@ -1,0 +1,27 @@
+body {
+  background: orange;
+}
+body{
+    display: grid;
+
+}
+button{
+    width: 30%;
+    margin: 30px auto;
+    background-color: coral;
+    border-radius: 10px;
+    font-size: medium;
+}
+ button:hover{
+     cursor: pointer;
+ }
+ ul{
+     margin: 0 auto;
+     display: flex;
+     flex-wrap: wrap;
+     width: 400px;
+ }
+ ul li{
+     margin: 10px;
+     list-style: none;
+ }
